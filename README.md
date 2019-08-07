@@ -1,2 +1,3 @@
-# TextExplorer-
-Editor de texto desenvolvido em C#
+# TextExplorer
+Editor de texto simples desenvolvido em C#
+
